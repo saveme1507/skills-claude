@@ -1,5 +1,5 @@
 ---
-name: claude-api
+name: custom-claude-api
 description: |-
   Reference for the Claude API / Anthropic SDK — model ids, pricing, params, streaming, tool use, MCP, agents, caching, token counting, model migration.
 license: Complete terms in LICENSE.txt
